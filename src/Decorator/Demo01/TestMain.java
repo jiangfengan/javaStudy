@@ -10,5 +10,6 @@ public class TestMain {
         coffee2=new Sugar(coffee2);//加入糖
         coffee2=new Sugar(coffee2);//加入糖
         System.out.println(coffee2.getDescrption()+"\n"+coffee2.getMoney());
+        System.out.println("乱入一波");
     }
 }
