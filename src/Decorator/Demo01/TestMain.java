@@ -11,5 +11,6 @@ public class TestMain {
         coffee2=new Sugar(coffee2);//加入糖
         System.out.println(coffee2.getDescrption()+"\n"+coffee2.getMoney());
         System.out.println("乱入一波");
+        System.out.println("新建的一个分支");
     }
 }
