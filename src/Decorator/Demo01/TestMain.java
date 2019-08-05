@@ -12,5 +12,6 @@ public class TestMain {
         System.out.println(coffee2.getDescrption()+"\n"+coffee2.getMoney());
         System.out.println("乱入一波");
         System.out.println("新建的一个分支");
+        System.out.println("再操作一波");
     }
 }
